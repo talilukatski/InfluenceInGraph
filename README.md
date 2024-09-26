@@ -1,1 +1,1 @@
-# InfluenceInGraph
+Developed an algorithm to identify the best influencers to maximize infection spread across a network of 4,000 users by analyzing centrality indices and implemented a greedy algorithm that selects influencers with the best marginal gain per dollar while adhering to budget constraints. 
